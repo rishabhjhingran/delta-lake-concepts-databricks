@@ -54,7 +54,18 @@ delta-lake-concepts-databricks/
 │   └── Upsert Operations.py
 │
 └── ZOrdering/
-    └── ZOrdering.py                 # NYC Taxi: Z-order on trip_distance, file scan reduction
+│   └── ZOrdering.py       # NYC Taxi: Z-order on trip_distance, file scan reduction               
+│
+└── Autoloader/
+│   └── Aotoloader Demo1 (Basic).py
+│   └── Autoloader Demo2 (Hide Schema,Streaming trigger).py
+│   └── Autoloader Demo3 (Schema Evolution Types).py
+│
+└── CTAS (Basic Standard lakeflow connect)/
+│   └── LakeFlowConnect (Theory) _ CTAS Statements.py
+│
+└── CopyInto/
+│   └── COPY INTO.py
 ```
 
 ---
